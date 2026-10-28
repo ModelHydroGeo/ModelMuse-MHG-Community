@@ -99,7 +99,6 @@ This software is supplied without a ModelHydroGeo warranty of suitability
 for any particular scientific, engineering or regulatory use.
 
 
-===================================================================
 FRANÇAIS
 --------
 
