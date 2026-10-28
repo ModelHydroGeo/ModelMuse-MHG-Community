@@ -88,8 +88,6 @@ licenses, notices and redistribution conditions.
 See release_notes.txt for dated release information and changes.
 
 Website: https://modelhydrogeo.com/
-Contact: contact@modelhydrogeo.com
-Suggested email subject for French localization feedback: ModelMuse Fr
 
 Please report the MHG version (2026a), Windows version, language, and steps
 to reproduce any issue. Do not send confidential model files without
@@ -188,8 +186,6 @@ et conditions de redistribution respectives.
 Consulter release_notes.txt pour les dates de sortie et les changements.
 
 Site web : https://modelhydrogeo.com/
-Contact : contact@modelhydrogeo.com
-Objet conseillé pour les remarques sur la traduction : ModelMuse Fr
 
 Merci de préciser la version MHG (2026a), la version de Windows, la langue
 utilisée et les étapes permettant de reproduire un problème. Ne pas envoyer
